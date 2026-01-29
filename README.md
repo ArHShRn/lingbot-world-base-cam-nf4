@@ -12,7 +12,7 @@ Robbyant Team
 
 [![Page](https://img.shields.io/badge/%F0%9F%8C%90%20Project%20Page-Demo-00bfff)](https://technology.robbyant.com/lingbot-world)
 [![Tech Report](https://img.shields.io/badge/%F0%9F%93%84%20Tech%20Report-Document-teal)](LingBot_World_paper.pdf)
-[![Paper](https://img.shields.io/static/v1?label=Paper&message=PDF&color=red&logo=arxiv)](https://github.com/robbyant/lingbot-world)
+[![Paper](https://img.shields.io/static/v1?label=Paper&message=PDF&color=red&logo=arxiv)](https://arxiv.org/abs/2601.20540)
 [![Model](https://img.shields.io/static/v1?label=%F0%9F%A4%97%20Model&message=HuggingFace&color=yellow)](https://huggingface.co/robbyant/lingbot-world-base-cam)
 [![Model](https://img.shields.io/static/v1?label=%F0%9F%A4%96%20Model&message=ModelScope&color=purple)](https://www.modelscope.cn/models/Robbyant/lingbot-world-base-cam)
 [![License](https://img.shields.io/badge/License-Apache--2.0-green)](LICENSE.txt)
@@ -114,7 +114,7 @@ If you find this work useful for your research, please cite our paper:
 @article{lingbot-world,
       title={Advancing Open-source World Models}, 
       author={Robbyant Team},
-      journal={arXiv preprint arXiv:xx.xx},
+      journal={arXiv preprint arXiv:2601.20540},
       year={2026}
 }
 ```
